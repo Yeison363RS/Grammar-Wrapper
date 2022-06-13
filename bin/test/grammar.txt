@@ -1,0 +1,13 @@
+S=S
+T={a,b}
+N={S,B,A}
+P={
+    S -> BA
+    B -> b 
+    B -> AB
+    A -> a
+    A -> BA
+    A -> E
+}
+
+abaab
